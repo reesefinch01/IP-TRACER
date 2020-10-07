@@ -11,7 +11,7 @@ apt install git
 
 cd $HOME
 
-git clone { Enter yhr github link}
+git clone { Enter the github link}
 
 cd Bull-Attack
 
